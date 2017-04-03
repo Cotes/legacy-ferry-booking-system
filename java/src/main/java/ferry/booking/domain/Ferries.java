@@ -1,5 +1,6 @@
-package ferry.booking;
+package ferry.booking.domain;
 
+import ferry.booking.dto.Ferry;
 import org.json.JSONArray;
 import org.json.JSONObject;
 

@@ -1,4 +1,9 @@
-package ferry.booking;
+package ferry.booking.service;
+
+import ferry.booking.domain.Bookings;
+import ferry.booking.domain.Ports;
+import ferry.booking.domain.TimeTables;
+import ferry.booking.dto.*;
 
 import java.util.ArrayList;
 import java.util.Collections;

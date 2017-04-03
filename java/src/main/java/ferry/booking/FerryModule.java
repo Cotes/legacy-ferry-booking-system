@@ -1,5 +1,8 @@
 package ferry.booking;
 
+import ferry.booking.dto.TimeTableEntry;
+import ferry.booking.manager.FerryManager;
+
 public class FerryModule {
 
     public static long timeReady(TimeTableEntry timetable, PortModel destination) {

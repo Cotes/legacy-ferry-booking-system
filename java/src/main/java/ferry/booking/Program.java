@@ -1,5 +1,18 @@
 package ferry.booking;
 
+import ferry.booking.domain.Bookings;
+import ferry.booking.domain.Ferries;
+import ferry.booking.domain.Ports;
+import ferry.booking.domain.TimeTables;
+import ferry.booking.dto.AvailableCrossing;
+import ferry.booking.dto.Booking;
+import ferry.booking.dto.Port;
+import ferry.booking.dto.TimeTableViewModelRow;
+import ferry.booking.manager.PortManager;
+import ferry.booking.service.FerryAvailabilityService;
+import ferry.booking.service.JourneyBookingService;
+import ferry.booking.service.TimeTableService;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

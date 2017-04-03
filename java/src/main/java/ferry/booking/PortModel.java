@@ -1,5 +1,8 @@
 package ferry.booking;
 
+import ferry.booking.dto.Ferry;
+import ferry.booking.dto.Port;
+
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;

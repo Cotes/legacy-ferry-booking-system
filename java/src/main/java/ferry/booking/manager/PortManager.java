@@ -1,5 +1,11 @@
-package ferry.booking;
+package ferry.booking.manager;
 
+
+import ferry.booking.PortModel;
+import ferry.booking.domain.Ferries;
+import ferry.booking.domain.Ports;
+import ferry.booking.dto.Ferry;
+import ferry.booking.dto.Port;
 
 import java.util.ArrayList;
 import java.util.List;

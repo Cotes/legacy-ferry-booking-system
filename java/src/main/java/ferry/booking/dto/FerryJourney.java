@@ -1,4 +1,7 @@
-package ferry.booking;
+package ferry.booking.dto;
+
+import ferry.booking.PortModel;
+import ferry.booking.dto.Ferry;
 
 public class FerryJourney {
 

@@ -1,4 +1,4 @@
-package ferry.booking;
+package ferry.booking.dto;
 
 import java.util.List;
 
